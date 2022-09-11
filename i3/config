@@ -146,7 +146,7 @@ gaps inner 12
 bar {
         status_command /bin/bumblebee-status \
         -m cpu memory battery pasink time \
-        -t iceberg-dark-powerline 
+        -t iceberg
         position top
         colors {
                 focused_workspace #CECECE #CECECE #000000
