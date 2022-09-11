@@ -1,0 +1,5 @@
+xrandr --output eDP-1 --off --output HDMI-1 --refresh 120&
+xrandr --rate 120
+picom --experimental-backends -b&
+feh --bg-scale ~/Wallpapers/fox.jpg&
+numlockx on
