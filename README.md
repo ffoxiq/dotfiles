@@ -1,4 +1,4 @@
-# my dotfiles
+# My .files
 ### These are my dotfiles. You can copy them if you want.
 ##### Distro: Artix Linux
 ##### WM: i3wm
